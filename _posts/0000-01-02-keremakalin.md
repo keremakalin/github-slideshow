@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+all life is sex, said robert california
 Use the left arrow to go back!
